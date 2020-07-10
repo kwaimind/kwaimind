@@ -6,7 +6,7 @@ After hobby-coding since I was a teenager, I decided to switch careers and becom
 
 🔭 I’m currently working on React, Styled Components, Immutable.js
 
-🌱 I’m currently learning a11y, GraphlQL, React Native
+🌱 I’m currently learning a11y, GraphQL, React Native
 
 👯 I’m looking to collaborate on open source projects
 
