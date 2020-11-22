@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Daniel. I'm currently working at Znipe as a Junior Full-Stack JavaScript Developer.
+I'm Daniel. Frontend Developer at Znipe Esports.
 
 After hobby-coding since I was a teenager, I decided to switch careers and become a professional web developer. I love building apps & products, and learning new technologies along the way.
 
