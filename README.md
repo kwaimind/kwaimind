@@ -1,18 +1,16 @@
 ### Hi there 👋
 
-I'm Daniel. Frontend Developer at Znipe Esports.
+I'm Daniel. I'm a software engineer working in Stockholm, Sweden.
 
-After hobby-coding since I was a teenager, I decided to switch careers and become a professional web developer. I love building apps & products, and learning new technologies along the way.
+##### BIO
 
-🔭  I’m currently working with:
+- 🏢 I'm currently working at **Znipe Esports**
+- ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`
+- 🌍 I'm mostly working with **React**, **GraphQL**, **Jest**, **Styled Components**, **Immer**
+- 🌱 Learning all about **Typescript**, **Next.js**, **Docker**, **AWS**, **JS performance**
+- 💬 Ping me about **open source**
+- 📫 Reach me: email
+- ⚡️ Fun fact: I'm big into my cycling right now. Reach out if you want to flex on Strava
 
-  * JavaScript/TypeScript
-  * React/React Native
-  * Redux
-  * Styled Components
-  * Immutable.js/Immer
-  * GraphQL
 
-👯  I’m looking to collaborate on open source projects
-
-📫  How to reach me: email
+<!-- - 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc… -->
