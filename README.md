@@ -4,7 +4,7 @@ I'm Daniel. I'm a software engineer working in Stockholm, Sweden.
 
 ##### BIO
 
-- 🏢 I'm currently working at **Znipe Esports**
+<!-- - 🏢 I'm currently working at **Znipe Esports** -->
 - ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`
 - 🌍 I'm mostly working with **React**, **GraphQL**, **Jest**, **Styled Components**, **Immer**
 - 🌱 Learning all about **Typescript**, **Next.js**, **Docker**, **AWS**, **JS performance**
